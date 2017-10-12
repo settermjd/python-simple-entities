@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# IDE files and directories
+.idea
+
+# Code coverage reports
+coverage_html
